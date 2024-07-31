@@ -66,4 +66,3 @@ const [balance, setBalance] = useState<null | number>(0);//double check variable
     },
   };
 }
-//deploying dapps github belum selesai
